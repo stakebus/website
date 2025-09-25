@@ -1,2 +1,0 @@
-# website
-Stakebus Website Validator
